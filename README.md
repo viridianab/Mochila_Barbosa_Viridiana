@@ -1,0 +1,1 @@
+Prácticas para el curso "Introducción a la Informática" de Digital House.
